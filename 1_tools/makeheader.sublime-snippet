@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+'''*************************************************
+content      Section 2: Style
+
+version      0.0.1
+date   		 14-12-2025
+
+dependancy
+how_to
+
+author       Harry Shaper <harryshaper@gmail.com>
+
+*************************************************'''
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>makeheader</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+</snippet>
